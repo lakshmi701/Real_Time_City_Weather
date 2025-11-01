@@ -12,10 +12,9 @@ Built using React, Vite, TypeScript, Tailwind CSS, and shadcn-ui for a clean and
       💡 Interactive and responsive UI
       
       ⚡ Fast and lightweight (built with Vite)
+
       
-      🧩 Built entirely by me — not generated using Lovable or other tools
-      
-      🛠️ How to Run Locally
+ 🛠️ How to Run Locally
 
 Follow these steps to set up and run the project on your computer:
 

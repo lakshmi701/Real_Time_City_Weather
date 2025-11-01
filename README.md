@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+🌤️ Real_Time_City_Weather
 
-## Project info
+A real-time weather web app that displays live weather updates for any city using an open weather API.
+Built using React, Vite, TypeScript, Tailwind CSS, and shadcn-ui for a clean and modern interface.
 
-**URL**: https://lovable.dev/projects/98dd12a8-0d0f-4adb-ad97-c98fd2da9807
+🚀 Features
 
-## How can I edit this code?
+🌦️ Get real-time weather data (temperature, humidity, wind speed, etc.)
 
-There are several ways of editing your application.
+🔍 Search weather by city name
 
-**Use Lovable**
+💡 Interactive and responsive UI
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/98dd12a8-0d0f-4adb-ad97-c98fd2da9807) and start prompting.
+⚡ Fast and lightweight (built with Vite)
 
-Changes made via Lovable will be committed automatically to this repo.
+🧩 Built entirely by me — not generated using Lovable or other tools
 
-**Use your preferred IDE**
+🛠️ How to Run Locally
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Follow these steps to set up and run the project on your computer:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+# Step 1: Clone the repository
+git clone <YOUR_GITHUB_REPO_URL>
 
-Follow these steps:
+# Step 2: Navigate into the project folder
+cd Real_Time_City_Weather
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Step 3: Install dependencies
+npm install
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Then open the local server URL shown in your terminal (usually http://localhost:5173).
 
-**Use GitHub Codespaces**
+🧰 Technologies Used
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+React – for UI components
 
-## What technologies are used for this project?
+TypeScript – for type safety and cleaner code
 
-This project is built with:
+Vite – for fast development and builds
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Tailwind CSS – for modern styling
 
-## How can I deploy this project?
+shadcn-ui – for prebuilt elegant UI components
 
-Simply open [Lovable](https://lovable.dev/projects/98dd12a8-0d0f-4adb-ad97-c98fd2da9807) and click on Share -> Publish.
+OpenWeatherMap API – for fetching real-time weather data
 
-## Can I connect a custom domain to my Lovable project?
+📦 Deployment
 
-Yes, you can!
+You can host this app easily on:
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Vercel
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Netlify
+
+GitHub Pages
+
+Example (Vercel):
+
+npm run build
+vercel deploy
+
+✨ Author
+
+Lakshmi Prasanna
+Project: Real_Time_City_Weather
+Developed independently using React + Vite stack.

@@ -60,6 +60,7 @@ You can host this app easily on:
   Example (Vercel):
     
       npm run build
+      
       vercel deploy
 
 
